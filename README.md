@@ -1,7 +1,7 @@
 # 🚀 Webszerver Swap és Memória Optimalizáló Script
 
 A script egy automatizált megoldást kínál Linux alapú webszerverek **Swap fájljának létrehozására** és a **memóriahasználat finomhangolására** a stabilitás és a teljesítmény maximalizálása érdekében. Kifejezetten hasznos lehet VPS (Virtual Private Server) környezetekben.
-
+* **TESZTELVE: Debian 13**
 ---
 
 ## ✨ Fő funkciók
